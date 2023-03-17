@@ -1,16 +1,15 @@
 # flutter_templates_codes
 
-flutter_templates_codes
+this is a flutter project for provide you many flutter templates & codes
+this codes of templates sources path in : libs/
+also you can flutter run this project,to see the template penetration and copy code;
 
-## Getting Started
+这是一个FLUTTER项目，提供许多模板供你参考
+你可以查看源码，目录在libs/下
+当然你也可以运行这个项目，去查看模板效果和复制模板源码
+## screen 1
+![image](https://github.com/fengyunworks/flutter_templates_codes/blob/main/assets/images/screen1.jpg)
 
-This project is a starting point for a Flutter application.
+## screen 2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/fengyunworks/flutter_templates_codes/blob/main/assets/images/screen2.jpg)
